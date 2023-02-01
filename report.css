@@ -1,0 +1,13 @@
+<body{
+margin: 8;
+padding: 80;
+font-family: Arial;
+}
+table,th,td{
+	width:  600px;
+	margin: auto;
+	font-size: 22px;
+	text-align: center;
+	border: 2px solid#000;
+}
+}
